@@ -7,10 +7,6 @@
 #profile_photo {
   border-radius: 50%;
 }
- .devicon {
-   height: 100px;
-   width: 100px;
- }
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
