@@ -8,6 +8,16 @@
   font-size: 100px;
 }
 
+@media (min-width: 768px) {
+  .devicon {
+    margin: 0 0 30px;
+ }
+}
+
+.resume {
+  color: #CCDFCB;
+}
+
 #profile_photo {
   border-radius: 50%;
 }
